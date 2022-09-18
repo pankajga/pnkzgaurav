@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pankaj Gaurav
-- 👀 I’m interested in learning new technologies
+- 👀 I’m interested in learning and discussing about new technologies
 - 🌱 I’m currently working as a Developer
 - 💞️ I’m looking to collaborate on open source projects
 
